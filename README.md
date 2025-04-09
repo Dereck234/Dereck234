@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Programming Languages 🖥️</h3>
+<h3 align="center">Programming Languages & Frameworks 🖥️</h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="center">Social Media 📷</h3>
+<h3 align="center">Social Media 📷 & Contact 📨 </h3>
 
 ###
 
