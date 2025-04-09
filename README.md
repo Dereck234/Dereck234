@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Programming Languages & Frameworks 🖥️</h3>
+<h3 align="center">Programming Languages 🗒️ & Frameworks 🖥️</h3>
 
 ###
 
@@ -46,7 +46,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
   <img width="15" />
-  <img src="https://img.icons8.com/color/512/unreal-engine.png" height="40" alt="unrealengine logo"  />
+  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="40" alt="unrealengine logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
   <img width="15" />
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="center">Social Media 📷 & Contact 📨 </h3>
+<h3 align="center">Social Media 📷 & Contacts 📨</h3>
 
 ###
 
@@ -74,10 +74,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dereck234/Dereck234/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce9f7043-dd0c-4fbf-9ef1-7fd196547490/ddu4sns-6c19ad31-c4f8-47a7-8b1a-81a84b7112f1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlOWY3MDQzLWRkMGMtNGZiZi05ZWYxLTdmZDE5NjU0NzQ5MFwvZGR1NHNucy02YzE5YWQzMS1jNGY4LTQ3YTctOGIxYS04MWE4NGI3MTEyZjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DZVLD0XBKyPU5a6A3fn0ahwEYRTjwdQTzTbGg7I0Oc0"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dereck234/Dereck234/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dereck234/Dereck234/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dereck234/Dereck234/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
