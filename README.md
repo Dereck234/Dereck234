@@ -48,7 +48,7 @@
   <img width="15" />
   <img src="https://img.icons8.com/color/512/unreal-engine.png" height="40" alt="unrealengine logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" height="40" alt="blender logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
   <img width="15" />
