@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
+  <img src="https://luau.org/assets/images/luau-88.png" height="30" alt="luau logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
 </div>
 
@@ -78,6 +80,8 @@
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://www.rw-designer.com/icon-image/16739-256x256x68.png" height="30" alt="robloxstudio logo"  />
 </div>
 
 ###
