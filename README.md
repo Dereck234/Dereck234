@@ -124,9 +124,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dereck234/Dereck234/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dereck234/Dereck234/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
