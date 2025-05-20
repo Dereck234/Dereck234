@@ -66,15 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
-
-###
-
-<h3 align="left">Large Language Model 🦜</h3>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="openai logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" height="30" alt="gemini logo"  />
