@@ -70,6 +70,18 @@
 
 ###
 
+<h3 align="left">Large Language Model 🦜</h3>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="openai logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" height="30" alt="gemini logo"  />
+</div>
+
+###
+
 <h3 align="left">Game Engines 🎮</h3>
 
 ###
