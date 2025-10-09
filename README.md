@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" height="30" alt="css3 logo"  />
 </div>
 
 ###
@@ -58,6 +58,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="30" alt="postgresql logo"  />
 </div>
 
 ###
@@ -126,6 +128,8 @@
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
   <img width="12" />
   <img src="https://www.rw-designer.com/icon-image/16739-256x256x68.png" height="30" alt="robloxstudio logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373617/gamemaker.svg" height="30" alt="robloxstudio logo"  />
 </div>
 
 ###
@@ -141,6 +145,18 @@
 </div>
 
 ###
+
+<h3 align="left">Miscellaneous ❓</h3>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174925.png?f=webp" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" height="30" alt="prisma logo"  />
+</div>
 
 <h3 align="left">Social Media 📷 & Contacts 📨</h3>
 
@@ -163,7 +179,7 @@
   <img width="12" />
 
   <a href="https://floc0s.itch.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-1024x1024-fev9qpvd.png" height="30" alt="itchio logo" />
+    <img src="https://avatars.githubusercontent.com/u/14803619?s=280&v=4" height="30" alt="itchio logo" />
   </a>
   <img width="12" />
   
@@ -171,3 +187,4 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram logo" />
   </a>
 </div>
+
