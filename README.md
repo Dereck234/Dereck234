@@ -19,8 +19,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dereck234&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dereck234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Dereck234&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -83,16 +81,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
-  <img src="https://luau.org/assets/images/luau-88.png" height="30" alt="luau logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1280px-Luau_Logo_%28Programming_Language%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="30" alt="luau logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="30" alt="kotlin logo"  />
 </div>
 
 ###
 
-<h3 align="left">Artificial Intelligence and Machine Learning 🤖</h3>
+<h3 align="left">Artificial Intelligence & Machine Learning 🤖</h3>
 
 ###
 
@@ -100,18 +100,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
-
-###
-
-<h3 align="left"> Large Language Models 🦜</h3>
-
-###
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="openai logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" height="30" alt="gemini logo"  />
 </div>
 
 ###
@@ -134,7 +122,7 @@
 
 ###
 
-<h3 align="left">Version Control</h3>
+<h3 align="left">Version Control ⚙️</h3>
 
 ###
 
@@ -151,14 +139,18 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30" alt="react logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174925.png?f=webp" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="django logo"  />
 </div>
 
-<h3 align="left">Social Media 📷 & Contacts 📨</h3>
+<h3 align="left">Contacts 📨</h3>
 
 ###
 
@@ -172,19 +164,5 @@
     <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="30" alt="gmail logo" />
   </a>
   <img width="12" />
-  
-  <a href="https://discord.com/users/582194919662288907" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://floc0s.itch.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/14803619?s=280&v=4" height="30" alt="itchio logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.instagram.com/dereckmsa" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram logo" />
-  </a>
 </div>
 
